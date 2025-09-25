@@ -245,6 +245,4 @@ source "drivers/cdx/Kconfig"
 
 source "drivers/auth_ctl/Kconfig"
 
-source "drivers/starkernel/Kconfig"
-
 endmenu
